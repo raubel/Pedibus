@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Pédibus</string>
+    
+    <string name="save">Sauver</string>
+    <string name="saveAndSend">Sauver et envoyer</string>
+    <string name="confirm_title">Confirmer</string>
+    <string name="confirm_message">Confirmer l\'envoi du SMS à tous les "guides" du Pédibus</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    
+    <string name="title_activity_main">Pédibus</string>
+
+</resources>
